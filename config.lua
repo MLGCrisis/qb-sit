@@ -8,6 +8,11 @@ Config.GetUpText = 'E - Get Up'
 Config.GetUpKey = 38
 
 Config.Interactables = {
+	'camp_chair_green', -- wp placeables
+	'camp_chair_blue', -- wp placeables
+	'camp_chair_plaid', -- wp placeables
+	'plastic_chair', -- wp placeables
+	'folding_chair', -- wp placeables
 	'prop_bench_01a',
 	'prop_bench_01b',
 	'prop_bench_01c',
